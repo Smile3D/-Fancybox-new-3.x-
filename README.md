@@ -17,3 +17,9 @@ smallBtn: false
 speed: 500
 
 speed: 300 //default
+
+Дополнительные настройки:
+
+baseClass: 'class'//Доп CSS class на лайтбокс
+
+slideClass: 'class'//Доп CSS class на слайды
