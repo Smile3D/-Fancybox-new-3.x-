@@ -1,10 +1,10 @@
 # -Fancybox-new-3.x-
 
-Селектор ссылок для открытия лайтбокса:<br>
+<strong>Селектор ссылок для открытия лайтбокса:</strong><br>
 
 <code>a.lightbox, [data-fancybox]</code>
 
-Дефолтная кнопка закрытия:<br>
+<strong>Дефолтная кнопка закрытия:</strong><br>
 
 <code>smallBtn: auto //default</code><br>
 
@@ -12,13 +12,13 @@
 
 <code>smallBtn: false</code><br>
 
-Скорость анимации открытия/закрытия (ms):<br>
+<strong>Скорость анимации открытия/закрытия (ms):</strong><br>
 
 <code>speed: 500</code><br>
 
 <code>speed: 300 //default</code><br>
 
-Дополнительные настройки:<br>
+<strong>Дополнительные настройки:</strong><br>
 
 <code>baseClass: 'class'//Доп CSS class на лайтбокс</code><br>
 
