@@ -1,31 +1,31 @@
 # -Fancybox-new-3.x-
 
-Селектор ссылок для открытия лайтбокса:
+Селектор ссылок для открытия лайтбокса:<br>
 
-a.lightbox, [data-fancybox]
+<code>a.lightbox, [data-fancybox]</code>
 
-Дефолтная кнопка закрытия:
+Дефолтная кнопка закрытия:<br>
 
-smallBtn: auto //default
+<code>smallBtn: auto //default</code><br>
 
-smallBtn: true
+<code>smallBtn: true</code><br>
 
-smallBtn: false
+<code>smallBtn: false</code><br>
 
-Скорость анимации открытия/закрытия (ms):
+Скорость анимации открытия/закрытия (ms):<br>
 
-speed: 500
+<code>speed: 500</code><br>
 
-speed: 300 //default
+<code>speed: 300 //default</code><br>
 
-Дополнительные настройки:
+Дополнительные настройки:<br>
 
-baseClass: 'class'//Доп CSS class на лайтбокс
+<code>baseClass: 'class'//Доп CSS class на лайтбокс</code><br>
 
-slideClass: 'class'//Доп CSS class на слайды
+<code>slideClass: 'class'//Доп CSS class на слайды</code><br>
 
-gutter: 30//Горизонтальное расстояние между слайдами
+<code>gutter: 30//Горизонтальное расстояние между слайдами</code><br>
 
-margin: [50, 0]//Вертикальный отступ для картинки, игнорируется когда высота экрана меньше 800px
+<code>margin: [50, 0]//Вертикальный отступ для картинки, игнорируется когда высота экрана меньше 800px</code><br>
                   
                  Боковые отступы для картинки, игнорируется когда ширина экрана меньше 800px
